@@ -1,5 +1,5 @@
 _repo: Beulah_4246
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Orphans -- Fiction'
 - !lcsh 'Southern States -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: Beulah
 url: http://www.gutenberg.org/ebooks/4246
